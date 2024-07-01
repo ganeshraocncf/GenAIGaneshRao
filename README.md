@@ -1,2 +1,2 @@
-# GenAIGaneshRao
+# GenAI GaneshRao
 GenAI Course 
